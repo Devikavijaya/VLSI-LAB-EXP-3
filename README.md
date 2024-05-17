@@ -46,6 +46,7 @@ endmodule.
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
+
 # CODE:
 ```
 module ha(a,b,sum,carry);
